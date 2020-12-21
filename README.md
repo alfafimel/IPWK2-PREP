@@ -1,4 +1,4 @@
-# IPWK2-PREP
+# Python dictionaries & Election prediction
 Assessment 
 ## Part 1: Python Programming
 Overview 
@@ -48,7 +48,7 @@ You have been provided with a detailed description of what you will be expected 
 
 Do remember that complex tasks that may seem hard at first can often be broken down into a sequence of simple tasks, and there are workarounds to do what first seems “impossible” with a succession of known operations.
 
-Problem Description 
+### Problem Description 
 
 You have been asked to help a candidate to become US president. The winner of the election will be the candidate winning the most grand electors. 
 
